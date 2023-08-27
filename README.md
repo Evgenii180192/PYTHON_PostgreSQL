@@ -1,1 +1,1 @@
-# PYTHON_PostgreSQL
+Python, psycopg2, loguru.
